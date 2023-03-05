@@ -49,5 +49,5 @@ To create our NER dataset, we collected 250 English-language stainless steel pap
 13. Applicable Scenario
 
 ## Language model
-* URL of the original paper of `SciBERT`:https://aclanthology.org/D19-1371
-* URL of the original paper of `Fasttext`:https://doi.org/10.1021/acs.jcim.9b00995
+* URL of the original paper of `SciBERT`: https://aclanthology.org/D19-1371
+* URL of the original paper of `Fasttext`: https://doi.org/10.1021/acs.jcim.9b00995
