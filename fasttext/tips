@@ -1,1 +1,4 @@
 You need to download the language model from the author's github repository according to our cited papers.
+GitHub warehouse address for fasttext: https://github.com/olivettigroup/materials-synthesis-generative-models
+Download address for the material fasttext model: https://figshare.com/s/70455cfcd0084a504745
+You need to place the downloaded material fasttext model in the current folder!
