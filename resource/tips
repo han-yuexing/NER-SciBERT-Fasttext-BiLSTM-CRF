@@ -1,1 +1,1 @@
-You need to download the language model from the author's github repository or hangingface according to our cited papers.
+You need to download the SciBERT model (pytorch_model.bin) from https://github.com/allenai/scibert or https://huggingface.co/allenai/scibert_scivocab_uncased
